@@ -1,1 +1,1 @@
-# gitcoin-bounties
+# Blockpire Gitcoin-bounties
